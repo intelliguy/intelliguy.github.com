@@ -1,7 +1,7 @@
 # intelliguy.github.com
 
 ## Who am I
-- The expert on Kubernetes, Prometheus, Elasticsearch... and linux
+- The expert on Kubernetes, Prometheus, Elasticsearch, Kafka, fluent... and linux
 - Programmer (with python, java, golang, ansible and bash)
 
 ### Education
@@ -22,6 +22,8 @@
 - Microservice
 - Service Mesh
 - Network virtualization
+....
+- Clustering (Deep Learning)
 
 ## OpenSource Activity
 - Openstack-helm
