@@ -1,12 +1,14 @@
 # intelliguy.github.com
 
 ## Who am I
+- The expert on Kubernetes, Prometheus, Elasticsearch... and linux
+- Programmer (with python, java, golang, ansible and bash)
 
 ### Education
 - Masters of Engineering in KAIST
 - Bachelors of Science in UOS
 
-## Projects
+### Projects
 - SKT Container Platform (TACO)
 - SKT Private cloud (Virtual Machines with Openstack)
 - uCloud Services: RDBaaS, Packaging, AutoScaling, Messaging
