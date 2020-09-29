@@ -3,8 +3,21 @@
 ## Who am I
 
 ### Education
-Bachelors of Science in UOS
-Masters of Engineering in KAIST
+- Bachelors of Science in UOS
+- Masters of Engineering in KAIST
+
+## Projects
+- SKT Container Platform
+- SKT Private cloud (Virtual Machines)
+- uCloud Services
+-- RDBaaS
+-- Packaging
+-- AutoScaling
+-- Messaging
+- TMAX OS
+- u-City in songdo IFEZ
+- ETRI Next Computing
+...
 
 ## What can I do well
 
@@ -13,6 +26,7 @@ Masters of Engineering in KAIST
 ## OpenSource Activity
 - Openstack-helm
 - Fluent
+- Open Office
 
 ## Writing 
 - (translate) kubernetes operators
