@@ -2,9 +2,24 @@
 
 ## Who am I
 
+### Education
+Bachelors of Science in UOS
+Masters of Engineering in KAIST
+
 ## What can I do well
 
 ## My interest
+
+## OpenSource Activity
+- Openstack-helm
+- Fluent
+
+## Writing 
+- (translate) kubernetes operators
+
+## Lecture 
+- introduction to cloud at hanwa, lamda
+- introduction to programming with java at kaist 
 
 ## Groceries
 
