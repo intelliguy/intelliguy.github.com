@@ -38,7 +38,8 @@
 - (translate) kubernetes operators
 
 ## Lecture 
-- introduction to cloud at hanwa, lamda
+- introduction to prometheus and TACO lma at korea kubernetes user group
+- introduction to cloud at Hanwa, Pamz system
 - introduction to programming with java at kaist 
 
 ## Groceries
