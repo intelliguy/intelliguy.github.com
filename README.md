@@ -35,7 +35,7 @@
 ...
 
 ## Writing 
-- (translate) kubernetes operators
+- [(translate) kubernetes operators](http://www.acornpub.co.kr/book/kubernetes-operators)
 
 ## Lecture 
 - introduction to prometheus and TACO lma at korea kubernetes user group
