@@ -38,6 +38,7 @@
 - [(translate) kubernetes operators](http://www.acornpub.co.kr/book/kubernetes-operators)
 
 ## Lecture 
+- [Observability for multi-cluster with Thanos](https://www.youtube.com/watch?v=XyLg73BlfH8&list=PLj6h78yzYM2OO9_EWXS13LxAe-Bkn0xXt&index=6&t=1s)
 - introduction to prometheus and TACO lma at korea kubernetes user group
 - introduction to cloud at Hanwa, Pamz system
 - introduction to programming with java at kaist 
