@@ -48,7 +48,7 @@
 
 ## Groceries
 
-[study home](https://www.notion.so/Study-Main-5135d6afb03f4312846fef2e0d50cf4d)
+[study home](https://heavenly-part-d73.notion.site/Study-Main-5135d6afb03f4312846fef2e0d50cf4d)
 
 [Daily Worklog](https://www.notion.so/Daily-Work-Log-383be5e1d69b47e4a4486ef01c7cc0cf)
 
