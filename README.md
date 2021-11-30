@@ -38,7 +38,7 @@
 - [(translate) kubernetes operators](http://www.acornpub.co.kr/book/kubernetes-operators)
 
 ## Lecture 
-- [Observability for multi-cluster with Thanos](https://www.youtube.com/watch?v=XyLg73BlfH8&list=PLj6h78yzYM2OO9_EWXS13LxAe-Bkn0xXt&index=6&t=1s) [KCD2021](https://community.cncf.io/events/details/cncf-kcd-korea-presents-kubernetes-community-days-korea/), [OCD2021](https://openinfradays.kr/schedule/session)
+- [Observability for multi-cluster with Thanos](https://www.youtube.com/watch?v=XyLg73BlfH8&list=PLj6h78yzYM2OO9_EWXS13LxAe-Bkn0xXt&index=6&t=1s) [KCD2021](https://community.cncf.io/events/details/cncf-kcd-korea-presents-kubernetes-community-days-korea/), [OCD2021](https://openinfradays.kr/session/4)
 - [멀티클러스터에서 가시성 구축 사례 (feat. Thanos)]((https://openinfradays.kr/session/4) [OCD2021](https://openinfradays.kr/session/4)
 - introduction to prometheus and TACO lma at korea kubernetes user group
 - introduction to cloud at Hanwa, Pamz system
