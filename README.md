@@ -45,6 +45,7 @@
 - introduction to programming with java at kaist 
 
 ## Articles
+- (devocean)[crossplane으로 S3를 배포하고 Thanos에서 사용하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163508)
 - (devocean)[Prometheus를 사용한 kubernetes 모니터링](https://devocean.sk.com/blog/techBoardDetail.do?ID=163447)
 - (devocean)[Thanos를 이용한 멀티클러스터 모니터링](https://devocean.sk.com/blog/techBoardDetail.do?ID=163458&)
 - (openinfradev) [TACO Logging](https://openinfradev.github.io/TACOLogging/)
