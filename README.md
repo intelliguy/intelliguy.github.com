@@ -50,12 +50,25 @@
 ### Security&Policy
 - (devocean)[Kyverno 소개 (OPA의 대항마?)](https://devocean.sk.com/blog/techBoardDetail.do?ID=163561)
 - (devocean)[OPA(Open Policy Agent)를 소개합니다.](https://devocean.sk.com/blog/techBoardDetail.do?ID=163522)
+- (devocean)[OPA를 사용해 ABAC 구현하기](https://devocean.sk.com/experts/techBoardDetail.do?ID=163580)
+- (devocean)[**kubernetes의 접근제어방법**](https://devocean.sk.com/experts/techBoardDetail.do?ID=163941)
+- (devocean)[OPA GateKeeper를 사용해보자](https://devocean.sk.com/experts/techBoardDetail.do?ID=164004)
+- (devocean)[OPA의 활용사례 - kubescape](https://devocean.sk.com/experts/techBoardDetail.do?ID=164199)
+- (devocean)[OPA의 정책활용의 예 (feat. CVE-2021-25741 대비하기)](https://devocean.sk.com/experts/techBoardDetail.do?ID=164169)
 
 ### Monitoring System
+- (devocean)[Grafana Loki에 대해 알아보자](https://devocean.sk.com/experts/techBoardDetail.do?ID=163964)
+- (devocean)[로그수집기 fluentbit in TACO](https://devocean.sk.com/experts/techBoardDetail.do?ID=164148)
 - (devocean)[crossplane으로 S3를 배포하고 Thanos에서 사용하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163508)
 - (devocean)[Prometheus를 사용한 kubernetes 모니터링](https://devocean.sk.com/blog/techBoardDetail.do?ID=163447)
 - (devocean)[Thanos를 이용한 멀티클러스터 모니터링](https://devocean.sk.com/blog/techBoardDetail.do?ID=163458&)
 - (openinfradev) [TACO Logging](https://openinfradev.github.io/TACOLogging/)
+
+### Others
+- (devocean)[kubernetes cluster api의 활용](https://devocean.sk.com/experts/techBoardDetail.do?ID=163861)
+- (devocean)[AWS CLI를 사용한 Security group 조작](https://devocean.sk.com/experts/techBoardDetail.do?ID=163725)
+- (devocean)[kubernetes에서 ceph 활용하기](https://devocean.sk.com/experts/techBoardDetail.do?ID=163924)
+- (devocean)[Go Test방법](https://devocean.sk.com/experts/techBoardDetail.do?ID=163605)
 
 ## Groceries
 
